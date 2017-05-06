@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=PyDelhiConf App
 Comment=The official PyDelhi App for PyDelhiConf
-Exec=python /usr/bin/pydelhiconf/main.py -m screen:droid2,portrait -m inspector
+Exec=python2 /usr/bin/pydelhiconf/main.py -m screen:droid2,portrait -m inspector
 Icon=/usr/share/icons/pydelhi.jpg
 Type=Application
 StartupNotify=true
